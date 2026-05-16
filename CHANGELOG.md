@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.0 (2026-05-16)
+
+### Features
+
+- Introduce a breaking change
+  ([`d100d0f`](https://github.com/guillerminabs/my-package-with-semver/commit/d100d0f4459d5735312ea4acd49771d7e0d29e99))
+
+
 ## v1.1.0 (2026-05-16)
 
 ### Bug Fixes
